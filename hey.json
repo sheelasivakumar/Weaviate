@@ -1,0 +1,20 @@
+[
+    { 
+       "prompt" : "Hello, Hi there How Are You!"
+    },
+    {
+        "prompt":  "write an essay in 1000 words on title - "
+    },
+    {
+        "prompt":"Suggest me some ideas on science projects"
+    },
+    {
+        "prompt":"Cam you give me some example of how to solve the Problem : "
+    },
+    {
+        "prompt": "explain me the concept  - "
+    },
+    {
+        "prompt": "create a simple web application using JavaScript "
+    }
+]
