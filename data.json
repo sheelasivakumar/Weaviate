@@ -1,0 +1,58 @@
+[
+    {
+        "public":true,
+        "email":"null",
+        "prompt_title":" Learn a New Language",
+        "prompt": "Choose a language you've always wanted to learn and start today!",
+        "prompt_category": "Education"
+    },
+    {
+        "public":true,
+        "email":"null",
+        "prompt_title":"Explore a New Hobby",
+        "prompt": "Discover a new hobby or interest and immerse yourself in it.",
+        "prompt_category":"Hobbies and Leisure"
+    },
+    {
+        "public":true,
+        "email":"null",
+        "prompt_title":"Write a Short Story",
+        "prompt":"Write a short story with a surprising twist ending.",
+        "prompt_category":"Writing and Creativity"
+    },
+    {
+        "public":true,
+        "email":"null",
+        "prompt_title":" Travel Bucket List",
+        "prompt": "List the top 5 travel destinations you want to visit in your lifetime.",
+        "prompt_category":"Travel and Adventure"
+    },
+    {
+        "public":true,
+        "email":"null",
+        "prompt_title":"Healthy Eating Challenge",
+        "prompt":"Challenge yourself to eat only healthy foods for the next 7 days.",
+        "prompt_category":"Health and Wellness"
+    },
+    {
+        "public":true,
+        "email":"null",
+        "prompt_title":"Digital Detox Weekend",
+        "prompt":"Disconnect from your devices and enjoy a screen-free weekend.",
+        "prompt_category":" Technology and Lifestyle"
+    },
+    {
+        "public":true,
+        "email":"null",
+        "prompt_title": "Learn a Musical Instrument",
+        "prompt":"Pick up a musical instrument and start your journey to becoming a musician.",
+        "prompt_category":"Music and Arts"
+    },
+    {
+        "public":false,
+        "email":"sheelaomsri.ad21@bitsathy.ac.in",
+        "prompt_title": "Declutter Your Space",
+        "prompt":"Spend a weekend decluttering and organizing your living space.",
+        "prompt_category": "Home Improvement"
+    }
+]
